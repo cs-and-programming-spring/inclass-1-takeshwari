@@ -3,7 +3,7 @@
 
 /***********************************************
 * Name: Takeshwari Kamal
-* Email: kamalt4@students.rowan.edu
+* Email: kamalt4@rowan.edu
 ***********************************************
 * Purpose:
 *  This program calculates area of circle
